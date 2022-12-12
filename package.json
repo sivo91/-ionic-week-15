@@ -1,0 +1,33 @@
+{
+  "name": "CS5513-Week15-Peter119",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/camera": "^4.1.4",
+    "@capacitor/core": "^4.6.1",
+    "@capacitor/filesystem": "^4.1.4",
+    "@capacitor/preferences": "^4.0.2",
+    "@ionic/pwa-elements": "^3.1.1",
+    "@ionic/react": "^6.4.0",
+    "@ionic/react-router": "^6.4.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "ionicons": "^6.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.5",
+    "web-vitals": "^3.1.0",
+    "workbox-core": "^6.5.4",
+    "workbox-expiration": "^6.5.4",
+    "workbox-precaching": "^6.5.4",
+    "workbox-routing": "^6.5.4",
+    "workbox-strategies": "^6.5.4"
+  }
+}
